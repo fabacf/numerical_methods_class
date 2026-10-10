@@ -1,0 +1,1 @@
+A collection of my solutions for exercises in my Numerical Methods class.
